@@ -1,0 +1,8 @@
+Product Name, Product ID, Price, Quantity in Stock, Manufacturer
+"Laptop", "12345", "$799", "10", "Dell"
+"Smartphone", "67890", "$399", "25", "Samsung"
+"Tablet", "54321", "$299", "15", "Apple"
+"Desktop PC", "98765", "$999", "8", "HP"
+"Monitor", "24680", "$199", "20", "Acer"
+"Keyboard", "12345", "$57", "12", "Razer"
+"Mouse", "69691", "$52", "12", "Razer"
